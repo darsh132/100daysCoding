@@ -1,0 +1,15 @@
+C:\tempDev\core-programming-fundamentals\05_csharp\bin\Debug\net9.0\05_csharp.exe
+C:\tempDev\core-programming-fundamentals\05_csharp\bin\Debug\net9.0\05_csharp.deps.json
+C:\tempDev\core-programming-fundamentals\05_csharp\bin\Debug\net9.0\05_csharp.runtimeconfig.json
+C:\tempDev\core-programming-fundamentals\05_csharp\bin\Debug\net9.0\05_csharp.dll
+C:\tempDev\core-programming-fundamentals\05_csharp\bin\Debug\net9.0\05_csharp.pdb
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.AssemblyInfoInputs.cache
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.AssemblyInfo.cs
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.csproj.CoreCompileInputs.cache
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.sourcelink.json
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.dll
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\refint\05_csharp.dll
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.pdb
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\05_csharp.genruntimeconfig.cache
+C:\tempDev\core-programming-fundamentals\05_csharp\obj\Debug\net9.0\ref\05_csharp.dll
